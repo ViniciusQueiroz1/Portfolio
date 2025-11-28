@@ -5,7 +5,7 @@ Email: vinikssoares@gmail.com
 Linkedin: https://www.linkedin.com/in/vin%C3%ADcius-queiroz-e-silva-soares-b988aa37a/
 Competências: C++, C#, Java
 Projetos: Jogo da vida:
--
+-Link: https://github.com/ViniciusQueiroz1/Jogo-da-vida 
 -Um projeto que simula o jogo "Jogo da Vida" feito por John Conway
 -Feito em java no BlueJ
 -Finalizado
