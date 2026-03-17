@@ -7,5 +7,5 @@ Competências: C++, C#, Java
 Projetos: Jogo da vida:
 -Link: https://github.com/ViniciusQueiroz1/Jogo-da-vida 
 -Um projeto que simula o jogo "Jogo da Vida" feito por John Conway
--Feito em java no BlueJ
+-Feito em c++ no DEV C++
 -Finalizado
